@@ -1,3 +1,6 @@
+#Resources used:
+#https://www.youtube.com/watch?v=Vi0AhyUCCkE&list=PL_h86oT7YqVVZ6d4j1yEryCmNkEkQyJwJ&index=16&t=0s
+
 # need these imports to use certain features in the program 
 import turtle
 import time
