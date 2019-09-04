@@ -1,6 +1,14 @@
 #Resources used:
+#https://gist.github.com/wynand1004/ec105fd2f457b10d971c09586ec44900
 #https://www.youtube.com/watch?v=Vi0AhyUCCkE&list=PL_h86oT7YqVVZ6d4j1yEryCmNkEkQyJwJ&index=16&t=0s
-#I plann to add more notes in the furture
+
+#i did not create this project on my own I used the resources above to create this work
+#I plan to add more comments in the furture
+
+
+#this project still has soem changes I need to make
+
+
 # need these imports to use certain features in the program 
 import turtle
 import time
